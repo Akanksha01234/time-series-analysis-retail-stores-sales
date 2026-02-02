@@ -84,6 +84,6 @@ Using the attached sample data, please come up with your analytics approach:
 
 <br/>
 
-I welcome your questions. Write to rahul.gaikwad2010@gmail.com
+I welcome your questions. Write to somut0201@gmail.com
 
 <br/>
