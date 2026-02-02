@@ -74,16 +74,16 @@ Using the attached sample data, please come up with your analytics approach:
 
 ## Author
 
-* **Rahul Gaikwad** - Initial work and development
+* **akanksha tripathi** - Initial work and development
 
 <br/>
 
 ## References
 
-* [Rossmann_TSA_forecasts](https://github.com/datageekette/rossmann_TSA_forecasts)
+
 
 <br/>
 
-I welcome your questions. Write to rahul.gaikwad2010@gmail.com
+I welcome your questions. Write to somut0201@gmail.com
 
 <br/>
